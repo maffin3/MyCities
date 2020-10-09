@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  MyCities
+
+  Created by Maciej Czech on 06/10/2020.
+  
+*/
+"my_cities" = "My Cities";
+"alert" = "Alert";
+"no_city_data_available" = "No city data available.";
+"favourite" = "Favourite";
+"no_city_details_data_available" = "No details available.";
+"visited_by" = "Visited by";
+"city_rating" = "City rating";
+"visitors_in" = "Visitors in";
